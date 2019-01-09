@@ -1,0 +1,21 @@
+h1{
+  font-size: 40px;
+}
+
+body{
+  margin: 0%;
+}
+
+#center{
+  text-align: center;
+}
+
+article{
+  float: left;
+}
+
+.itemimage{
+  background-color: aquamarine;
+  height: 100px;
+  width: 100px;
+}
