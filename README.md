@@ -5,7 +5,7 @@ Sample application where website is inside.
 
 ## Requirement
 
-* [Xcode 10.1](https://developer.apple.com/download/)
+* [Xcode 11.7](https://developer.apple.com/download/)
 
 ## Install
 

@@ -212,13 +212,16 @@
 				TargetAttributes = {
 					2C1664B821AEB39A001AE53B = {
 						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1170;
 					};
 					2C1664CC21AEB39C001AE53B = {
 						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1170;
 						TestTargetID = 2C1664B821AEB39A001AE53B;
 					};
 					2C1664D721AEB39C001AE53B = {
 						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1170;
 						TestTargetID = 2C1664B821AEB39A001AE53B;
 					};
 				};
@@ -452,7 +455,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.mitsuaki1229.Waku;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -469,7 +472,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.mitsuaki1229.Waku;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -488,7 +491,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.mitsuaki1229.WakuTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Waku.app/Waku";
 			};
@@ -508,7 +511,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.mitsuaki1229.WakuTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Waku.app/Waku";
 			};
@@ -527,7 +530,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.mitsuaki1229.WakuUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = Waku;
 			};
@@ -546,7 +549,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.mitsuaki1229.WakuUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = Waku;
 			};
